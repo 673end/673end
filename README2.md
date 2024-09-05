@@ -179,6 +179,7 @@ Multivariate Statistics
 </details>
 
 <h2>💫 社会工作</h2>
+
 中国心理学会行为与健康心理学专业委员会委员
 
 国际心理测量协会 Psychometric Society 会员                              
