@@ -33,3 +33,10 @@ In terms of psychology, I am attempting to contribute to suicide risk screening.
   <li>- 👨‍💻 Note: Breaking through the boundaries of human knowledge :tada:</li>
   <li>- ⚡ Fun fact: I waste most of my time skiing</li>
 </ul>
+
+<details>
+ <summary><strong>My contributions</strong></summary>
+ <a href="https://pypi.org/project/deFit/"><img width="400" src="https://www.python.org/static/img/python-logo.png"></a>
+ <a href="https://cran.r-project.org/web/packages/deFit/index.html"><img width="400" src="https://www.r-project.org/Rlogo.png"></a>
+ 
+</details>
