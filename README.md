@@ -56,6 +56,7 @@ In terms of psychology, I am attempting to contribute to suicide risk screening.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
 </p>
 <h2>💫 The statistical model I often use in psychology</h2>
+
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
