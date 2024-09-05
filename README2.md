@@ -187,8 +187,9 @@ Multivariate Statistics
 Mindfulness 副主编
 
 Journal of Psychology: Interdisciplinary and Applied        编委
+<details>
+ <summary><strong>学术期刊长期审稿人</strong></summary>
 
-学术期刊长期审稿人
 
 Psychological Methods
 
@@ -207,3 +208,4 @@ Frontiers in Psychology
 Mindfulness
 
 Pain Practice
+</details>
