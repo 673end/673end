@@ -143,3 +143,8 @@ Texas State University Start-Up Fund: The Dynamic Relationship between Daily Hab
 
 广东省自然科学基金项目（2017A030310423）：儿童精神病态的异质性发展轨迹：表观遗传与教养环境的共同作用。参与
 </details>
+
+<details>
+ <summary><strong>软件开发</strong></summary>
+胡月琴，刘清山（2023）R包：deFit: Fitting Differential Equations to Time Series Data. https://cran.r-project.org/web/packages/deFit/index.html
+ </details>
