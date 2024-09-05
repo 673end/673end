@@ -22,7 +22,7 @@ I am working for Health Dynamical Lab (HDLab). A Python/R developer for deFit Pa
 In terms of psychology, I am attempting to contribute to suicide risk screening. I enjoy using psychological models and machine learning algorithms for research on psychological methods. I am trying to develop new risk screening methods.
 
  ---
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+<img width='200' align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
 **Talking about Personal Stuffs:**
 <ul>
@@ -31,5 +31,5 @@ In terms of psychology, I am attempting to contribute to suicide risk screening.
   <li>- 👯 I’m working for statistic science</li>
   <li>- 💬 Ask me about anything, Include Maths :sweat_smile:</li>
   <li>- 👨‍💻 Note: Breaking through the boundaries of human knowledge :tada:</li>
-  <li>- ⚡ Fun fact: I waste most of my time playing games</li>
+  <li>- ⚡ Fun fact: I waste most of my time skiing</li>
 </ul>
