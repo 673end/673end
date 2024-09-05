@@ -19,7 +19,7 @@ I am working for Health Dynamical Lab (HDLab). A Python/R developer for deFit Pa
 
 ### Research Interests
 
-In terms of psychology, I am attempting to contribute to suicide risk screening. I enjoy using psychological models and machine learning algorithms for research on psychological methods. I am trying to develop new risk screening methods.
+Within the realm of psychology, my focus is on advancing suicide risk screening methodologies. I am dedicated to utilizing psychological models in conjunction with machine learning algorithms to enhance our research in psychological assessment techniques. My goal is to innovate and develop more effective risk screening tools.
 
  ---
 <img width='400' align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
