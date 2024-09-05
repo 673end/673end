@@ -28,5 +28,10 @@ E-mail：yueqinhu@bnu.edu.cn
 
   ---
  <p>
-  <img width="80" align='left' src="https://psych.bnu.edu.cn/images/2022-08/618826f5747b4406bb42b76a2d1f2f79.png">
+  <img width="150" align='left' src="https://psych.bnu.edu.cn/images/2022-08/618826f5747b4406bb42b76a2d1f2f79.png">
 </p>
+### Research Interests
+
+Within the realm of psychology, my focus is on advancing suicide risk screening methodologies. I am dedicated to utilizing psychological models in conjunction with machine learning algorithms to enhance our research in psychological assessment techniques. My goal is to innovate and develop more effective risk screening tools.
+
+ ---
