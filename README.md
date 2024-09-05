@@ -36,7 +36,7 @@ In terms of psychology, I am attempting to contribute to suicide risk screening.
 
 <details>
  <summary><strong>My contributions</strong></summary>
- <a href="https://pypi.org/project/deFit/"><img height="200" src="https://www.python.org/static/img/python-logo.png"></a>
- <a href="https://cran.r-project.org/web/packages/deFit/index.html"><img height="200" src="https://www.r-project.org/Rlogo.png"></a>
+ <a href="https://pypi.org/project/deFit/">https://pypi.org/project/deFit/<img height="80" src="https://www.python.org/static/img/python-logo.png"></a>
+ <a href="https://cran.r-project.org/web/packages/deFit/index.html">https://cran.r-project.org/web/packages/deFit/index.html<img height="80" src="https://www.r-project.org/Rlogo.png"></a>
  
 </details>
