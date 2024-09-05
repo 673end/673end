@@ -164,7 +164,7 @@ Intermediate Statistics
 <details>
  <summary><strong>研究生教学</strong></summary>
 心理学研究方法
-  
+
 高级心理应用统计
 
 心理学前沿讲座
