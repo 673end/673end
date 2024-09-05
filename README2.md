@@ -123,3 +123,23 @@ Gan, Y., Hu, Y., & Zhang, Y. (2010). Proactive and preventive coping in adjustme
 
 </p>
 </details>
+
+<details>
+ <summary><strong>科研项目</strong></summary>
+ 国家自然科学基金科学基金面上项目，密集追踪数据动态建模新方法:数值优化算法及样本量设计(2022-2025，项目批准号：32171089)，主持
+
+大学生自杀危机预防与干预全过程模型的建构、优化与应用研究（2022-2023，项目号：310499101，北京师范大学），子课题主持
+
+中学生自伤与伤人风险测评工具的开发（2022-2023，杭州铭师堂），主持
+National Institutes of Health (001452-00001): Innovative physiological predictors of college drinking. Co-Investigator
+
+Texas State Research Enhancement Program: Using Derivatives to Analyze Within-Individual Fluctuations. Principal Investigator.
+
+Texas State University Start-Up Fund: The Dynamic Relationship between Daily Habits and Healthy sleep. Principal Investigator
+
+国家自然科学基金青年项目(31700961)：自我悲悯干预对心血管疾病患者心脏康复的作用与机制。参与
+
+教育部人文社科专项项目（16YJCZH107）：自我悲悯干预对于成年初显期人群健康促进行为的干预研究。参与
+
+广东省自然科学基金项目（2017A030310423）：儿童精神病态的异质性发展轨迹：表观遗传与教养环境的共同作用。参与
+</details>
