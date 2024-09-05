@@ -14,7 +14,7 @@ I am working for Health Dynamical Lab (HDLab). A Python/R developer for deFit Pa
   ---
  
  <p>
-  <img width="250" align='left' src="https://github.com/673aa/673/blob/main/img/673.jpg?raw=true">
+  <img width="50" align='left' src="https://github.com/673aa/673/blob/main/img/673.jpg?raw=true">
 </p>
  
 ### Research Interests
