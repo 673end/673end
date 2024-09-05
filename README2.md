@@ -153,17 +153,25 @@ Texas State University Start-Up Fund: The Dynamic Relationship between Daily Hab
 <details>
  <summary><strong>本科教学</strong></summary>
 心理测量
+  
 Introduction to Statistics
+
 Intermediate Statistics
+
 </details>
 
 <details>
  <summary><strong>研究生教学</strong></summary>
 心理学研究方法
+  
 高级心理应用统计
+
 心理学前沿讲座
+
 Univariate and Bivariate Statistics
+
 Multivariate Statistics
+
 </details>
 
 <h2>💫 社会工作</h2>
