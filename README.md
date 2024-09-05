@@ -28,7 +28,7 @@ In terms of psychology, I am attempting to contribute to suicide risk screening.
 <ul>
   <li>- 🔭 I’m a nerd.</li>
   <li>- 🌱 I’m currently coding in Python & R</li>
-  <li>- 👯 I’m working for statistic science</li>
+  <li>- 👯 I’m working for statistical science</li>
   <li>- 💬 Ask me about anything, Include Maths :sweat_smile:</li>
   <li>- 👨‍💻 Note: Breaking through the boundaries of human knowledge :tada:</li>
   <li>- ⚡ Fun fact: I waste most of my time skiing</li>
