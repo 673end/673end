@@ -57,14 +57,8 @@ In terms of psychology, I am attempting to contribute to suicide risk screening.
 </p>
 
 <p align="center">
-
-<!-- OLD github-readme-stats
-<a href="https://github.com/Aleksey-Voko?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@Voko's github-readme-stats"/></a>
--->
-
-<a href="https://github.com/Aleksey-Voko?tab=repositories#gh-dark-mode-only"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Voko's github-readme-stats"/></a>
-<a href="https://github.com/Aleksey-Voko?tab=repositories#gh-light-mode-only"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Aleksey-Voko&theme=default&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Voko's github-readme-stats"/></a>
-<a href="https://github.com/Aleksey-Voko?tab=stars#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com?user=Aleksey-Voko&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Voko's github-readme-streak-stats"/></a>
-<a href="https://github.com/Aleksey-Voko?tab=stars#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com?user=Aleksey-Voko&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Voko's github-readme-streak-stats"/></a>
-
+<a href="https://stackexchange.com/users/17728350/aleksey-voko?tab=accounts#gh-dark-mode-only"><img src="https://stackexchange.com/users/flair/17728350.png?theme=dark" width="208" height="58" alt="Профиль участника Aleksey Voko в Stack Exchange, сети бесплатных сайтов вопросов и ответов, управляемых сообществом" title="Профиль участника Aleksey Voko в Stack Exchange, сети бесплатных сайтов вопросов и ответов, управляемых сообществом"></a>
+<a href="https://stackexchange.com/users/17728350/aleksey-voko?tab=accounts#gh-light-mode-only"><img src="https://stackexchange.com/users/flair/17728350.png?theme=light" width="208" height="58" alt="Профиль участника Aleksey Voko в Stack Exchange, сети бесплатных сайтов вопросов и ответов, управляемых сообществом" title="Профиль участника Aleksey Voko в Stack Exchange, сети бесплатных сайтов вопросов и ответов, управляемых сообществом"></a>
+<a href="https://stackoverflow.com/users/13531449/aleksey-voko#gh-dark-mode-only"><img alt="stackoverflow badge" height="58" src="https://github-readme-stackoverflow.vercel.app/?userID=13531449&theme=dark&layout=compact"></a>
+<a href="https://stackoverflow.com/users/13531449/aleksey-voko#gh-light-mode-only"><img alt="stackoverflow badge" height="58" src="https://github-readme-stackoverflow.vercel.app/?userID=13531449&theme=light&layout=compact"></a>
 </p>
