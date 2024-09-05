@@ -5,13 +5,6 @@
   <a align="center" href="https://github.com/673aa/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+胡+月+琴+教+授+实+验+室;Welcome+to+健+康+动+力+实+验+室+!](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Welcome+to+胡+月+琴+教+授+实+验+室;Welcome+to+健+康+动+力+实+验+室+!" /></a>
 </p>
 <p>
-E-mail：yueqinhu@bnu.edu.cn
-
-研究方向：
-
-（1）计量心理学：针对密集追踪数据的动态系统分析，包括算法开发、模型构建、应用拓展等。
-
-（2）健康心理学：从动态系统的视角去理解人的健康行为，包括睡眠、饮食、情绪、压力管理等。
 
 新成员招募：
 
