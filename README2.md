@@ -41,10 +41,85 @@
 
 **工作经历：**
 <ul>
-  <li>- 🔭 I’m a nerd.</li>
-  <li>- 🌱 I’m currently coding in Python & R</li>
-  <li>- 👯 I’m working for statistical science</li>
-  <li>- 💬 Ask me about anything, Including Maths :sweat_smile:</li>
-  <li>- 👨‍💻 Note: Breaking through the boundaries of human knowledge :tada:</li>
-  <li>- ⚡ Fun fact: I waste most of my time skiing</li>
+  <li>- 🔭 2013.08-2019.08   美国德州州立大学       助理教授</li>
+  <li>- 🌱 2019.09-2020.08   美国德州州立大学       副教授</li>
+  <li>- 👯 2020.09- Present   北京师范大学               教授</li>
 </ul>
+
+<h2>🚀 科学研究</h2>
+**发表论文**
+<!--START_SECTION:activity-->
+<p align="left">
+Luo, X., & Hu, Y.* (in press). Temporal misalignment in intensive longitudinal data: Consequences and solutions based on dynamic structural equation models. Structural Equation Modeling.
+
+ Gan, Y., Wang, L., Schwarzer, R., Chen, G., & Hu, Y.* (in press). Eating Healthy Under Work Stress: A Gene Stress Interaction Model. Health Psychology.
+
+ 胡月琴，王理中，陈钢，甘怡群. (2023). CSF3R和行动控制对应激与健康饮食关系的调节作用：应激影响健康行为的个体化模型的初步证据. 心理学报. 55，8，1-12.
+
+吴凡，胡月琴. (2023). 人格动态性：过程与特质整合视角. 心理科学进展.
+
+Luo, X., & Hu, Y.* (2023). The competitive interaction between food cravings and unhealthy snacking: an application of the predator-prey model in psychology. Current Psychology. Doi: 10.1007/s12144-022-03848-8
+
+Yao, Z.*, Xu, J., L., K., & Hu, Y.*(2023). A dynamical systems investigation of the co-regulation between perceived daily parental warmth and adolescent attention-deficit/hyperactivity disorder symptoms. Research on Child and Adolescent Psychopathology. Doi: 10.1007/10802-023-01039-y
+
+Xu, J., Wang, H., Liu, S., Hale, M., Weng, X., Ahemaitijiang, N., Hu., Y.*, Suveg, C., & Han, Z*. (2023). Relations among family, peer, and academic stress and adjustment in Chinese adolescents: A daily diary analysis. Developmental Psychology. https://doi.org/10.1037/dev0001538
+
+De Nadai, A., Hu, Y., & Thompson, W. K. (2022). Data pollution in Neuropsychiatry-an under-recognized but critical barrier to research progress. JAMA Psychiatry, 79(2), 97-98.
+
+ Shen, Y., Lee, H., Choi, Y., Hu, Y., & Kim, K. (2022). Ethnic-racial socialization, ethnic-racial identity, and depressive symptoms in Korean adolescents in the United States and China. Journal of Youth and Adolescence, 51(2), 377-392.
+
+ Li, Y., Hu, Y., Yang, W., Wang, Y. (2021). Daily interventions and assessments: The effect of online self-compassion meditation on psychological health. Applied Psychology: Health Well-Being, 13(4), 906-921.
+
+Hu, Y., Stephenson, K., & Klare, D. (2020). The dynamic relationship between daily caffeine intake and sleep duration in middle-aged and older adults. Journal of Sleep Research, 29(6), e12996
+Snyder, M., Haskard-Zolnierek, K., Howard, K., & Hu, Y. (2020). Weight stigma is associated with provider-patient relationship factors and adherence for individuals with hypothyroidism. Journal of Health Psychology, 27(3), 702-712.
+
+Hu, Y., Visser, M., & Kaiser, S. (2020). Perceived Stress and Sleep Quality in Midlife and Later: Controlling for Genetic and Environmental Influences. Behavioral Sleep Medicine, 18(4), 537-549.
+
+Ginsburg, H., Hu, Y., & Robinson, B. (2020). Little Albert’s fear conditioning disappears when Watson’s different presentations of the rat before and after conditioning are controlled. North American Journal of Psychology, 22(4), 661-678.
+
+Shen,Y., Seo, E., Hu, Y., Zhang, M., & Chao, R. K. (2019). Measurement Invariance of Language Brokering Extent and Attitudes in Linguistic Minority Adolescents: Item Response Theory Analyses. Cultural Diversity and Ethnic Minority Psychology, 25, 170-178.
+
+Hu, Y., & Treinen, R. F. (2019). A one-step method for modeling intensive longitudinal data with differential equations. British Journal of Mathematical and statistical psychology, 1, 38-60.
+
+Menge, L. R., Hu Y., Crixell, S., Lloyd, L, Bezner, J., Burke, T. (2019). Influences on Catered Event Ordering in a University Workplace: Development and Validation of the Understanding Food Ordering (UFO) Survey. American Journal of Health Promotion, 33(4), 616-619.
+
+Hu, Y., Huang, Y. (2018). Dynamic Regulation toward an External Stimulus: A Differential Equation Model. Multivariate Behavioral Research, 53(6), 925-939.
+
+Hu, Y., Wang, Y., Sun, Y., Arteta Garcia, J., & Purol, S. (2018). Diary Study: The Protective Role of Self-Compassion on Stress-related Poor Sleep Quality. Mindfulness, 9, 1931-1940.
+
+Menge, L.R., Crixell, S., Hu, Y., Lloyd, L., Bezner, J., Burke, T. Oliver, J. (2018). Policies and Other Influences on Food-Ordering Decisions for Catered Events in a University Workplace. Journal of Nutrition Education and Behavior, 7, S122-S123.
+
+Hu, Y., Boker, S. (2017). Latent differential equation models for binary and ordinal data. Structural Equation Modeling: A Multidisciplinary Journal. 24, 52-64.
+
+Hu, Y., Nesselroade, J. R., Erbacher, M. K., Boker, S. M., Burt, S. A., Keel, P. K., Neale, M. C., Sisk, C. L., & Klump, K. (2016). Test reliability at the individual level. Structural Equation Modeling: A Multidisciplinary Journal, 23, 532-543.
+
+Boker, S. M., Staples, A. D., & Hu, Y. (2016). Dynamics of change and change in dynamics. Journal for Person-Oriented Research, 2, 34-55.
+
+Arteta Garcia, J., Cobos, B. A., Hu, Y., Jordan, K., & Howard, K. (2016). Evaluation of how depression and anxiety mediate the relationship between pain catastrophizing and prescription opioid misuse in a chronic pain population. Pain Medicine, 17(2), 295-303.
+
+Hu, Y., Xu, Y., Tornello, S. (2016). Stability of self-reported same-sex and bisexual Attraction from adolescence to adulthood. Archives of Sexual Behavior, 45(3), 651-659.
+
+Hu, Y., Boker, S., Neale, M., & Klump, K. (2014). Coupled Latent Differential Equation with Moderators: Simulation and Application. Psychological Methods, 19, 56-71.
+
+Lambert, A. E., Hu,Y.,  Magee, J. C.,  Beadel, J. R. & Teachman, B. A. (2014). Thought Suppression Across Time: Change in Frequency and Duration of Thought Recurrence. Journal of Obsessive Compulsive and Related Disorders, 1, 21-28.
+
+Gasimova, F., Robitzsch, A., Wilhelm, O., Boker, S., Hu, Y., & Hülür, G. (2014). Dynamical systems analysis applied to working memory data. Frontiers in Psychology, 5, 687.
+
+Haedt-Matt, A. A., Keel, P. K., Racine, S., Burt, A., Hu, Y., Boker, S., Neale, M., & Klump, K. (2014). Do emotional eating urges regulate affect? Concurrent and prospective associations and implications for risk models of binge eating. International Journal of Eating Disorders, 47(8), 874-877.
+
+Hu, Y., & Boker, S. (2013). Permutation Tests of Coupled Latent Differential Equations, Multivariate Behavioral Research, 48, 160.
+
+Klump, K.L., Keel, P.K., Racine, S.E., Burt, S.A., Neale, M., Sisk, C.L., Boker, S. M., & Hu, Y. (2013). The interactive effects of estrogen and progesterone on changes in emotional eating across the menstrual cycle. Journal of Abnormal Psychology, 122, 131-137.
+
+Hu, Y., Gan, Y., Liu, Y., (2012). How Chinese people infer helper’s ambiguous intentions: Helper effort and interpersonal relationships. International Journal of Psychology, 1, 1-12.
+
+Hu, Y., & Gan, Y., (2011). Future-Oriented Coping and Job Hunting among College Students. Psychological Record. 61(2), 253-268.
+
+Gan, Y., Hu, Y., & Zhang, Y. (2010). Proactive and preventive coping in adjustment to college. Psychological record, 60, Spring issue.
+
+胡月琴，甘怡群. (2008). 青少年心理韧性量表的编制和效度验证. 心理学报，40，902-912.
+
+甘怡群，奚庄庄，胡月琴，张轶文. (2007). 核心自我评价预测学业倦怠的新成分：集体自尊. 北京大学学报，43， 716-722.
+
+<!--END_SECTION:activity-->
+</p>
