@@ -25,7 +25,7 @@
   <img width="150" align='left' src="https://psych.bnu.edu.cn/images/2022-08/618826f5747b4406bb42b76a2d1f2f79.png">
 </p>
 
-### 研究方向
+### 💕研究方向
 
 （1）计量心理学：针对密集追踪数据的动态系统分析，包括算法开发、模型构建、应用拓展等。
 
