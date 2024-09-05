@@ -55,8 +55,3 @@ In terms of psychology, I am attempting to contribute to suicide risk screening.
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
 </p>
-
-<p align="center">
-<a href="https://github.com/Aleksey-Voko?tab=achievements#gh-dark-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Voko's trophy stats"/></a>
-<a href="https://github.com/Aleksey-Voko?tab=achievements#gh-light-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&theme=flat&no-frame=true&column=3&row=2"  width="38%" alt="@Voko's trophy stats"/></a>
-</p>
