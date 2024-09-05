@@ -148,3 +148,55 @@ Texas State University Start-Up Fund: The Dynamic Relationship between Daily Hab
  <summary><strong>软件开发</strong></summary>
 胡月琴，刘清山（2023）R包：deFit: Fitting Differential Equations to Time Series Data. https://cran.r-project.org/web/packages/deFit/index.html
  </details>
+<h2>💫 教学工作</h2>
+本科教学
+
+心理测量
+Introduction to Statistics
+
+Intermediate Statistics
+
+研究生教学
+
+心理学研究方法
+
+高级心理应用统计
+
+心理学前沿讲座
+
+Univariate and Bivariate Statistics
+
+Multivariate Statistics
+
+<h2>💫 社会工作</h2>
+中国心理学会行为与健康心理学专业委员会委员
+
+国际心理测量协会 Psychometric Society 会员                              
+
+美国心理学会第5分会（测量与统计分会）APA Division 5 会员
+
+学术期刊编委会
+
+Mindfulness 副主编
+
+Journal of Psychology: Interdisciplinary and Applied        编委
+
+学术期刊长期审稿人
+
+Psychological Methods
+
+Structural Equation Modeling: A Multidisciplinary Journal
+
+Multivariate Behavioral Research
+
+British Journal of Mathematical and Statistical Psychology
+
+Journal of Health Psychology
+
+American Journal of Health Behavior
+
+Frontiers in Psychology
+
+Mindfulness
+
+Pain Practice
