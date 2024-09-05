@@ -31,3 +31,13 @@
 （2）健康心理学：从动态系统的视角去理解人的健康行为，包括睡眠、饮食、情绪、压力管理等。
 
  ---
+ ### 个人履历
+**学习经历：**
+<ul>
+  <li>- 🔭 I’m a nerd.</li>
+  <li>- 🌱 I’m currently coding in Python & R</li>
+  <li>- 👯 I’m working for statistical science</li>
+  <li>- 💬 Ask me about anything, Including Maths :sweat_smile:</li>
+  <li>- 👨‍💻 Note: Breaking through the boundaries of human knowledge :tada:</li>
+  <li>- ⚡ Fun fact: I waste most of my time skiing</li>
+</ul>
