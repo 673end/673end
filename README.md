@@ -55,14 +55,14 @@ In terms of psychology, I am attempting to contribute to suicide risk screening.
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
 </p>
+
 <h2>💫 The statistical model I often use in psychology</h2>
 
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4430](https://github.com/LayerZero-Labs/sybil-report/issues/4430#issuecomment-2118810886) in [LayerZero-Labs/sybil-report](https://github.com/LayerZero-Labs/sybil-report)
-2. ❗ Opened issue [#2](https://github.com/guilyx/blockchain_learning/issues/2) in [guilyx/blockchain_learning](https://github.com/guilyx/blockchain_learning)
-3. 🗣 Commented on [#1](https://github.com/guilyx/blockchain_learning/issues/1#issuecomment-2061876303) in [guilyx/blockchain_learning](https://github.com/guilyx/blockchain_learning)
-4. 🗣 Commented on [#1](https://github.com/guilyx/blockchain_learning/issues/1#issuecomment-2051379291) in [guilyx/blockchain_learning](https://github.com/guilyx/blockchain_learning)
-5. ❗ Opened issue [#1](https://github.com/guilyx/blockchain_learning/issues/1) in [guilyx/blockchain_learning](https://github.com/guilyx/blockchain_learning)
+1. 🗣 Differential Equation Model 
+2. ❗ Multilevel Linear Model
+3. 🗣 Dynamical Structure Equation Model
+4. 🗣 Composite Key conditions (CKC) Model
 <!--END_SECTION:activity-->
