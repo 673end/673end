@@ -1,4 +1,4 @@
-<img align="left" width="150" height="150" alt="Liuqingshan" src="https://raw.githubusercontent.com/673aa/673aa/main/img/HDLab.jfif?v=4?transparent=1&palette=1"/>
+<img align="left" height="150" alt="Liuqingshan" src="https://raw.githubusercontent.com/673aa/673aa/main/img/HDLab.jfif?v=4?transparent=1&palette=1"/>
 
 ## Hi, I'm LiuQingshan 👋
 <p align="center">
