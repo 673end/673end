@@ -23,5 +23,10 @@ E-mail：yueqinhu@bnu.edu.cn
 </p>
 <p align="center"> 
   Visitors count<br>
-  <img height='200' src="https://psych.bnu.edu.cn/images/2022-08/618826f5747b4406bb42b76a2d1f2f79.png" />
+  <img src="https://profile-counter.glitch.me/yueqinhu/count.svg" />
+</p>
+
+  ---
+ <p>
+  <img width="80" align='left' src="https://psych.bnu.edu.cn/images/2022-08/618826f5747b4406bb42b76a2d1f2f79.png">
 </p>
