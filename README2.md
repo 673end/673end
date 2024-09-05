@@ -150,7 +150,7 @@ Texas State University Start-Up Fund: The Dynamic Relationship between Daily Hab
  <summary><strong>软件开发</strong></summary>
 胡月琴，刘清山（2023）R包：deFit: Fitting Differential Equations to Time Series Data. https://cran.r-project.org/web/packages/deFit/index.html
  </details>
-<h2>💫 教学工作</h2>
+<h2>💯 教学工作</h2>
 
 <details>
  <summary><strong>本科教学</strong></summary>
