@@ -7,3 +7,7 @@
 <p>
 I am working for Health Dynamical Lab (HDLab). A Python/R developer for deFit Package.
 </p>
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
+</p>
