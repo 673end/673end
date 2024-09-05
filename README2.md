@@ -149,24 +149,22 @@ Texas State University Start-Up Fund: The Dynamic Relationship between Daily Hab
 胡月琴，刘清山（2023）R包：deFit: Fitting Differential Equations to Time Series Data. https://cran.r-project.org/web/packages/deFit/index.html
  </details>
 <h2>💫 教学工作</h2>
-本科教学
 
+<details>
+ <summary><strong>本科教学</strong></summary>
 心理测量
 Introduction to Statistics
-
 Intermediate Statistics
+</details>
 
-研究生教学
-
+<details>
+ <summary><strong>研究生教学</strong></summary>
 心理学研究方法
-
 高级心理应用统计
-
 心理学前沿讲座
-
 Univariate and Bivariate Statistics
-
 Multivariate Statistics
+</details>
 
 <h2>💫 社会工作</h2>
 中国心理学会行为与健康心理学专业委员会委员
