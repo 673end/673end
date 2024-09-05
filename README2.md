@@ -152,8 +152,9 @@ Texas State University Start-Up Fund: The Dynamic Relationship between Daily Hab
 
 <details>
  <summary><strong>本科教学</strong></summary>
-心理测量
   
+心理测量
+
 Introduction to Statistics
 
 Intermediate Statistics
