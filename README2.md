@@ -34,7 +34,7 @@
 🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀
 
  ---
- <img width='400' align="right" src="https://raw.githubusercontent.com/673aa/673aa/main/img/statistics.jfif">
+ <img width='300' align="right" src="https://raw.githubusercontent.com/673aa/673aa/main/img/statistics.jfif">
  
  ### 个人履历
 **学习经历：**
