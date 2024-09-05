@@ -121,5 +121,6 @@ Gan, Y., Hu, Y., & Zhang, Y. (2010). Proactive and preventive coping in adjustme
 
 甘怡群，奚庄庄，胡月琴，张轶文. (2007). 核心自我评价预测学业倦怠的新成分：集体自尊. 北京大学学报，43， 716-722.
 
-<!--END_SECTION:activity-->
 </p>
+
+<!--END_SECTION:activity-->
