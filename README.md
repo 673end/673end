@@ -66,3 +66,6 @@ In terms of psychology, I am attempting to contribute to suicide risk screening.
 3. 🗣 Dynamical Structure Equation Model
 4. 🗣 Composite Key conditions (CKC) Model
 <!--END_SECTION:activity-->
+
+<h2>🦔 Contact</h2>
+1281291218@qq.com
