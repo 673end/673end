@@ -23,6 +23,7 @@ In terms of psychology, I am attempting to contribute to suicide risk screening.
 
  ---
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+
 **Talking about Personal Stuffs:**
 <ul>
   <li>- 🔭 I’m a nerd.</li>
