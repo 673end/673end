@@ -2,5 +2,5 @@
 
 ## Hi, 欢迎来到健康动力实验室（胡月琴教授实验室） 👋
 <p align="center">
-  <a align="center" href="https://github.com/673aa/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+健+康+动+力+实+验+室!;实+验+室+领+导+人+胡+月+琴+教+授](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Welcome+to+健+康+动+力+实+验+室+!;实+验+室+领+导+人+胡+月+琴+教+授!;胡+月+琴+教+授+简+介+及+实+验+室+介+绍" /></a>
+  <a align="center" href="https://github.com/673aa/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+胡+月+琴+教+授+简+介+及+实+验+室+介+绍;Welcome+to+健+康+动+力+实+验+室+!](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Welcome+to+胡+月+琴+教+授+简+介+及+实+验+室+介+绍;Welcome+to+健+康+动+力+实+验+室+!" /></a>
 </p>
