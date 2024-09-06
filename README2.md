@@ -36,7 +36,7 @@
  ---
  <img width='300' align="right" src="https://raw.githubusercontent.com/673aa/673aa/main/img/statistics.jfif">
  
- ### 胡月琴教授个人履历
+ ### 个人履历
 **学习经历：**
 <ul>
   <li>- 🎓 2002.09-2006.07   北京大学               学士</li>
