@@ -120,12 +120,11 @@
 
 <details>
  <summary><strong>本科教学</strong></summary>
-| 课程 |
-| --- |
+  <p>
   | 心理测量 |
   | Introduction to Statistics |
   | Intermediate Statistics |
-
+</p>
 </details>
 
 <details>
