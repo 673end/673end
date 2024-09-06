@@ -63,9 +63,8 @@ Within the realm of psychology, my focus is on advancing suicide risk screening 
 
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png" alt="AE" width="45" height="45" />
-<img src="https://www.logo.wine/a/logo/Adobe_After_Effects/Adobe_After_Effects-Logo.wine.svg" alt="AE" width="45" height="45" />
 <img src="https://seeklogo.com/images/A/autodesk-maya-logo-A8D58F0B59-seeklogo.com.png" alt="MAYA" width="45" height="45" />
-  
+<img src="https://www.logo.wine/a/logo/Adobe_After_Effects/Adobe_After_Effects-Logo.wine.svg" alt="AE" width="45" height="45" />
 </p>
 
 <h2>💫 The statistical model I often use in psychology</h2>
