@@ -46,7 +46,6 @@ Within the realm of psychology, my focus is on advancing suicide risk screening 
 
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45" />
@@ -54,6 +53,12 @@ Within the realm of psychology, my focus is on advancing suicide risk screening 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
 <img src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" alt="aws" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45" />
+</p>
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/673aa/673aa/main/img/mplus.jfif" alt="mplus" width="45" height="45" />
+<img src="https://www.logo.wine/a/logo/R_(programming_language)/R_(programming_language)-Logo.wine.svg" alt="R" width="45" height="45" />
+<img src="https://upload.wikimedia.org/wikipedia/en/1/1b/IBM_SPSS_v23.png" alt="spss" width="45" height="45" />
 </p>
 
 <h2>💫 The statistical model I often use in psychology</h2>
