@@ -142,14 +142,14 @@
 
 | 学术协会 | 职务|
 | --- | --- |
-| - 中国心理学会行为与健康心理学 | 专业委员会委员 |
-| - 国际心理测量协会 Psychometric Society        |  会员 |
-| - 美国心理学会第5分会（测量与统计分会）APA Division 5| 会员 |
+| 中国心理学会行为与健康心理学 | 专业委员会委员 |
+| 国际心理测量协会 Psychometric Society        |  会员 |
+| 美国心理学会第5分会（测量与统计分会）APA Division 5| 会员 |
 
 | 学术期刊编委会 | 职务|
 | --- | --- |
-| - Mindfulness | 副主编 |
-| - Journal of Psychology: Interdisciplinary and Applied|编委 |
+| Mindfulness | 副主编 |
+| Journal of Psychology: Interdisciplinary and Applied|编委 |
 
 <details>
  <summary><strong>学术期刊长期审稿人</strong></summary>
