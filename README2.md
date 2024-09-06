@@ -129,51 +129,31 @@
 
 <details>
  <summary><strong>研究生教学</strong></summary>
-
-心理学研究方法
-
-高级心理应用统计
-
-心理学前沿讲座
-
-Univariate and Bivariate Statistics
-
-Multivariate Statistics
-
+<ul>
+<li>心理学研究方法</li>
+<li>高级心理应用统计</li>
+<li>心理学前沿讲座</li>
+<li>Univariate and Bivariate Statistics</li>
+<li>Multivariate Statistics</li>
+</ul>
 </details>
 
 <h2>💫 社会工作</h2>
-
-中国心理学会行为与健康心理学专业委员会委员
-
-国际心理测量协会 Psychometric Society 会员                              
-
-美国心理学会第5分会（测量与统计分会）APA Division 5 会员
-
-学术期刊编委会
-
-Mindfulness 副主编
-
-Journal of Psychology: Interdisciplinary and Applied        编委
+- 中国心理学会行为与健康心理学专业委员会委员
+- 国际心理测量协会 Psychometric Society 会员                              
+- 美国心理学会第5分会（测量与统计分会）APA Division 5 会员
+- 学术期刊编委会
+- Mindfulness 副主编
+- Journal of Psychology: Interdisciplinary and Applied        编委
 <details>
  <summary><strong>学术期刊长期审稿人</strong></summary>
-
-
-Psychological Methods
-
-Structural Equation Modeling: A Multidisciplinary Journal
-
-Multivariate Behavioral Research
-
-British Journal of Mathematical and Statistical Psychology
-
-Journal of Health Psychology
-
-American Journal of Health Behavior
-
-Frontiers in Psychology
-
-Mindfulness
-
-Pain Practice
+- Psychological Methods
+- Structural Equation Modeling: A Multidisciplinary Journal
+- Multivariate Behavioral Research
+- British Journal of Mathematical and Statistical Psychology
+- Journal of Health Psychology
+- American Journal of Health Behavior
+- Frontiers in Psychology
+- Mindfulness
+- Pain Practice
 </details>
