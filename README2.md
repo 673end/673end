@@ -163,5 +163,4 @@
 - Frontiers in Psychology
 - Mindfulness
 - Pain Practice
-- 
 </details>
