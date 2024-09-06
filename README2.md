@@ -109,7 +109,7 @@
 </ul>
 </details>
 
-<details>
+<details  open>
  <summary><strong>软件开发</strong></summary>
 <ul>
 <li>胡月琴，刘清山（2023）R包：deFit: Fitting Differential Equations to Time Series Data. https://cran.r-project.org/web/packages/deFit/index.html</li>
