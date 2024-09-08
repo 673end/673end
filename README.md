@@ -85,11 +85,11 @@ Within the realm of psychology, my focus is on advancing suicide risk screening 
 <details>
 <summary>Details</summary>
   
-- 密集追踪数据分析
-- 脑电、眼动数据分析
-- 心理学模型拟合
-- 数据可视化
-- R语言Python语言软件包开发
-- 机器学习预测
-- 机器学习网站部署
+> - 密集追踪数据分析
+> - 脑电、眼动数据分析
+> - 心理学模型拟合
+> - 数据可视化
+> - R语言Python语言软件包开发
+> - 机器学习预测
+> - 机器学习网站部署
 </details>
