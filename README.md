@@ -69,7 +69,7 @@ Within the realm of psychology, my focus is on advancing suicide risk screening 
 <img src="https://www.logo.wine/a/logo/Adobe_After_Effects/Adobe_After_Effects-Logo.wine.svg" alt="AE" width="45" height="45" />
 </p>
 
-<h2>💫 The statistical model I often use in psychology</h2>
+<h2>💪 The statistical model I often use in psychology</h2>
 
 **:zap: Recent Activity:**
 
