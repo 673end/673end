@@ -91,5 +91,7 @@ Within the realm of psychology, my focus is on advancing suicide risk screening 
 > 数据可视化 |
 > R语言、Python语言软件包开发 |
 > 机器学习预测 |
-> 机器学习网站部署 |
+> 网站部署（包括机器学习网站部署） |
+> 贝叶斯优化算法 |
+> 模拟研究 |
 </details>
