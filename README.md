@@ -80,5 +80,5 @@ Within the realm of psychology, my focus is on advancing suicide risk screening 
 4. 🗣 Composite Key conditions (CKC) Model
 <!--END_SECTION:activity-->
 
-<h2>🦔 Contact</h2>
+<h2>🤝 Contact</h2>
 1281291218@qq.com
