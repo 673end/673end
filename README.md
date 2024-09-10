@@ -70,16 +70,16 @@ Within the realm of psychology, my focus is on advancing suicide risk screening 
 </p>
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg" alt="scipy" height="15" />
-<img src="https://pandas.pydata.org/static/img/pandas.svg" alt="pandas" height="15" />
-<img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003_2_00x.png" alt="matplotlib" height="15" />
-<img src="https://plotly.com/chart-studio-help/images/logo-light.svg" alt="plotly" height="15" />
-<img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" alt="seaborn" height="15" />
-<img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" height="15" />
-<img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black-2.png" alt="OpenCV" height="15" />
-<img src="https://www.gstatic.com/devrel-devsite/prod/v35e3d347a323c673294794cf0b643760fd66bb529efbd7dccaa22518acef0297/tensorflow/images/lockup.svg" alt="TensorFlow" height="15" />
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_169823.png" alt="PyTorch" height="15" />
-<img src="https://mne.tools/stable/_images/mne_logo.svg" alt="MNE" height="15" />
+<img src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg" alt="scipy" height="20" />
+<img src="https://pandas.pydata.org/static/img/pandas.svg" alt="pandas" height="20" />
+<img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003_2_00x.png" alt="matplotlib" height="20" />
+<img src="https://plotly.com/chart-studio-help/images/logo-light.svg" alt="plotly" height="20" />
+<img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" alt="seaborn" height="20" />
+<img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" height="20" />
+<img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black-2.png" alt="OpenCV" height="20" />
+<img src="https://www.gstatic.com/devrel-devsite/prod/v35e3d347a323c673294794cf0b643760fd66bb529efbd7dccaa22518acef0297/tensorflow/images/lockup.svg" alt="TensorFlow" height="20" />
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_169823.png" alt="PyTorch" height="20" />
+<img src="https://mne.tools/stable/_images/mne_logo.svg" alt="MNE" height="20" />
 </p>
 
 <h2>💪 The statistical model I often use in psychology</h2>
