@@ -12,7 +12,7 @@ I am working for Health Dynamical Lab (HDLab). A Python/R developer for deFit Pa
 
 ---
 
-<img width="80" align='right' src="https://github.com/673aa/673/blob/main/img/673.jpg?raw=true">
+<img width="80" align='left' src="https://github.com/673aa/673/blob/main/img/673.jpg?raw=true">
 
 ### Research Interests
 Within the realm of psychology, my focus is on advancing suicide risk screening methodologies. I am dedicated to utilizing psychological models in conjunction with machine learning algorithms to enhance our research in psychological assessment techniques. My goal is to innovate and develop more effective risk screening tools.
