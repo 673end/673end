@@ -1,4 +1,4 @@
-<img align="center" width="150" alt="Liuqingshan" src="https://avatars.githubusercontent.com/u/19361573?v=4?transparent=1&palette=1">
+<img align="left" width="150" alt="Liuqingshan" src="https://avatars.githubusercontent.com/u/19361573?v=4?transparent=1&palette=1">
 
 ## Hi, I'm LiuQingshan 👋
 <p align="center">
